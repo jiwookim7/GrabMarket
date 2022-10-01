@@ -1,0 +1,6 @@
+html,  
+#root,  
+#root > footer
+{
+  height: 100%;
+}
